@@ -1,16 +1,29 @@
-# React + Vite
+**Website Looks Like - https://cardnest-ai.netlify.app/**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CardNest AI – AI-Powered Credit Card Recommendation Platform
 
-Currently, two official plugins are available:
+CardNest AI is an intelligent fintech web application designed to help users discover the most suitable credit cards based on spending habits, income range, and annual fee preferences. Powered by Google Gemini AI, the platform delivers personalized credit card recommendations with insights into benefits, rewards, eligibility, and fees.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built with a premium luxury fintech-inspired UI, CardNest AI provides a seamless and modern experience through AI-driven recommendations, responsive design, and enterprise-style user interactions.
 
-## React Compiler
+Features
+🤖 Google Gemini AI integration
+💳 Personalized credit card recommendations
+🌙 Light & Dark theme support
+📱 Fully responsive design
+✨ Premium fintech UI/UX
+🎯 Multi-step recommendation flow
+📊 Smart spending habit analysis
+🔄 AI recommendation refresh system
+⚡ Fast frontend powered by Vite + React
+Tech Stack
+React.js
+Vite
+Google Gemini AI API
+JavaScript
+React Hooks
+Modern Responsive UI Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+CardNest AI combines Artificial Intelligence and fintech innovation to simplify credit card selection and deliver a premium recommendation experience.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Developed by Anirban 🚀**
