@@ -1,40 +1,16 @@
-**Website look like - https://cardnest-ai.netlify.app/** 
+# React + Vite
 
-CardNest AI – AI-Powered Credit Card Recommendation Platform
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-CardNest AI is an intelligent fintech web application designed to help users discover the most suitable credit cards based on spending habits, income range, and annual fee preferences. Powered by Google Gemini AI, the platform delivers personalized credit card recommendations with insights into benefits, rewards, eligibility, and fees.
+Currently, two official plugins are available:
 
-Built with a premium luxury fintech-inspired UI, CardNest AI provides a seamless and modern experience through AI-driven recommendations, responsive design, and enterprise-style user interactions.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-Features
-🤖 Google Gemini AI integration
-💳 Personalized credit card recommendations
-🌙 Light & Dark theme support
-📱 Fully responsive design
-✨ Premium fintech UI/UX
-🎯 Multi-step recommendation flow
-📊 Smart spending habit analysis
-🔄 AI recommendation refresh system
-⚡ Fast frontend powered by Vite + React
-Tech Stack
-React.js
-Vite
-Google Gemini AI API
-JavaScript
-React Hooks
-Modern Responsive UI Design
-Supported Recommendation Categories
-Airport Lounge Access
-Travel & Hotels
-Fuel & Petrol
-Dining & Food
-Shopping
-Cashback
-Movies & OTT
-Groceries
-International Spending
-EMI & Large Purchases
+## React Compiler
 
-CardNest AI combines Artificial Intelligence and fintech innovation to simplify credit card selection and deliver a premium recommendation experience.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-**Developed by Anirban 🚀**
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
